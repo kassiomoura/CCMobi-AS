@@ -17,9 +17,9 @@ Buscar parcerias com órgãos, instituições, empresas, para que seja possível
 Comunidade
 
 ## Equipe:
-Brenda Louisy Morais Alves - 119111113
-Kássio Augusto de Moura Silva - 119210551
-Luan Carvalho Pedrosa - 119210986
-Lucas Galdino da Silva - 119111160
-Leticia Gabriela Calixto - 118210691
+- Brenda Louisy Morais Alves - 119111113
+- Kássio Augusto de Moura Silva - 119210551
+- Luan Carvalho Pedrosa - 119210986
+- Lucas Galdino da Silva - 119111160
+- Leticia Gabriela Calixto - 118210691
 
